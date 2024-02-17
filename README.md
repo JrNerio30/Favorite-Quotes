@@ -24,7 +24,7 @@
 ```
 <img src="./Assets/ODDT.png">
 
-### 5. Paste the forked repository link on the terminal
+### 5. Paste the forked repository link in the terminal
 ```
 git clone <repository url>
 ```
