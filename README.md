@@ -7,24 +7,26 @@
 
 <h1 align="center">Instructions</h1>
 
-### 1. Create a new fork
+### `1. Create a new fork`
 <img src="./Assets/Createnewfork.png">
 <img src="./Assets/CreateForkButton.png">
 
-### 2. Copy the forked repository
+### `2. Copy the forked repository`
 <img src="./Assets/Clonerepo.png">
 
-### 3. Open Visual Studio Code (New Window) and open a new terminal
+### `3. Open Visual Studio Code (New Window) and open a new terminal`
 <img src="./Assets/Newterminal.png">
 
-### 4. Navigate to your home folder or USER/(NAME OF THE USER)/ONEDRIVE/DESKTOP
+### `4. Navigate to your home folder or USER/(NAME OF THE USER)/ONEDRIVE/DESKTOP`
 ```
 1. cd onedrive
 2. cd desktop
+OR for Mac, just cd desktop if you don't have onedrive
 ```
+
 <img src="./Assets/ODDT.png">
 
-### 5. Paste the forked repository link in the terminal
+### `5. Paste the forked repository link in the terminal`
 ```
 git clone <repository url>
 ```
@@ -32,7 +34,7 @@ git clone <repository url>
 
 > The terminal should say that it's finished or done.
 
-### 6. Then type in "ls"
+### `6. Then type in "ls"`
 ```
 ls
 ```
