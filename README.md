@@ -17,7 +17,7 @@
 ### 3. Open Visual Studio Code (New Window) and open a new terminal
 <img src="./Assets/Newterminal.png">
 
-### 4. Navigate to you home folder or USER/(NAME OF THE USER)/ONEDRIVE/DESKTOP
+### 4. Navigate to your home folder or USER/(NAME OF THE USER)/ONEDRIVE/DESKTOP
 ```
 1. cd onedrive
 2. cd desktop
