@@ -36,4 +36,5 @@ git clone <repository url>
 ```
 ls
 ```
-> To Check if the "Favorite-Quotes" has been cloned.
+> Find the "Favorite-Quotes" folder
+> If it's there, then it's been successfully cloned.
