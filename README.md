@@ -52,9 +52,9 @@ git branch <new branch name>
 ```
 <!-- Step 7 -->
 
-### `7. Add your favorite quote and the person who created the quote`
+### `7. Add your favorite quote and the person who created the quote below the instructions`
 ```
-# <First Name>
+<h1 align="center"><First Name></h1>
 <h3 align="center"> Your Quote </h3>
 <p align="center">(-) <who?> </p> 
 ```
@@ -66,7 +66,7 @@ git branch <new branch name>
 
 > For Mac: ⌘ + S
 ```
-Open terminal and type in:
+Open the terminal and type in:
 git add .
 or 
 git add <readme file>
@@ -80,7 +80,7 @@ git commit -m "docs: <the changes you've made>"
 ```
 git push origin <your branch>
 ```
-> this will push your branch and your commits.
+> This will push your branch and your commits.
 
 >If you still see this. Just click publish branch
 <img src="./Assets/publishBranch.png">
