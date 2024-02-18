@@ -63,6 +63,9 @@ git branch <new branch name>
 <p align="center">(-) <who?> </p> 
 ```
 
+> [!NOTE]
+> This HTML elements can be written in the README.md file.
+
 <!-- Step 8 -->
 
 ### `8. Ones you're finished adding your quote, save it then follow the command below`
