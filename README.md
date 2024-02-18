@@ -63,6 +63,9 @@ git branch <new branch name>
 <p align="center">(-) <who?> </p> 
 ```
 
+> [!NOTE]
+> This HTML elements can be written in the README.md file.
+
 <!-- Step 8 -->
 
 ### `8. Ones you're finished adding your quote, save it then follow the command below`
@@ -113,7 +116,14 @@ git push origin <your branch>
 <h3 align="center">"Code is poetry written in the language of logic."</h3>
 <p align="center">- ChatGPT </p>
 <!-- Space -->
+
+
 <h1 align="center">Josh</h1>
 <h3 align="center">"Expression is when you are at one with nothingness."</h3>
 <p align="center">- John Frusciante </p>
+
+
+<!-- Don't write pass here -->
+<!-- This is a button -->
+
 [Back To Top](#favorite-quotes)
