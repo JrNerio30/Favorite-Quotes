@@ -93,7 +93,7 @@ git push origin <your branch>
 > [!CAUTION] 
 > Do not merge it! Please🥺
 
-### `11. Wait for me to merge it`
+### `11. Wait for the host to merge it`
 
 
 
