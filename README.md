@@ -34,10 +34,5 @@ git clone <repository url>
 
 > The terminal should say that it's finished or done.
 
-### `6. Then type in "ls"`
-```
-ls
-```
-> Find the "Favorite-Quotes" folder
+### `6. Create a new branch before adding changes`
 
-> If it's there, then it's been successfully cloned.
