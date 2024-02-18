@@ -74,20 +74,26 @@ then
 git commit -m "docs: <the changes you've made>"
 ```
 
+<!-- Step 9 -->
+
 ### `9. Then push that b**** in!`
 ```
 git push origin <your branch>
 ```
 > this will push your branch and your commits.
 
- 
+>If you still see this. Just click publish branch
+<img src="./Assets/publishBranch.png">
 
+### `10. Create a pull request and write a description`
 
+<img src="./Assets/createPullRequest.png">
+<img src="./Assets/Write.png">
 
+> [!CAUTION] 
+> Do not merge it! Please🥺
 
-
-
-
+### `11. Wait for me to merge it`
 
 
 
