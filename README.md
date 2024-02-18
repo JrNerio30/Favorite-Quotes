@@ -52,7 +52,7 @@ git branch <new branch name>
 ```
 <!-- Step 7 -->
 
-### `7. Add your favorite quote and the person who created the quote below the instructions`
+### `7. Add your favorite quote and the person who created the quote` [Here](#Here)
 ```
 <h1 align="center"><First Name></h1>
 <h3 align="center"> Your Quote </h3>
@@ -96,10 +96,8 @@ git push origin <your branch>
 ### `11. Wait for the host to merge it`
 
 
-
-
 <h1 align="center">Add your Favorite Quote here</h1>
-
+<h4 align="center">Here</h4>
 <p align="center">Arrange the letters of your first name in alphabetical order from A-Z, and use it as the title.</p>
 <!-- Typing gif -->
 <p align="center">
@@ -107,7 +105,6 @@ git push origin <your branch>
 </p>
 
 <!-- Type in your favorite quote here -->
-
 <h1 align="center">Fernando</h1>
 <h3 align="center">"Code is poetry written in the language of logic."</h3>
 <p align="center">- ChatGPT </p>
