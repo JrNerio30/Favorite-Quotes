@@ -107,8 +107,8 @@ git push origin <your branch>
 </p>
 
 <!-- Type in your favorite quote here -->
-
+<!-- Space -->
 <h1 align="center">Fernando</h1>
 <h3 align="center">"Code is poetry written in the language of logic."</h3>
 <p align="center">- ChatGPT </p>
-
+<!-- Space -->
