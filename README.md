@@ -113,5 +113,7 @@ git push origin <your branch>
 <h3 align="center">"Code is poetry written in the language of logic."</h3>
 <p align="center">- ChatGPT </p>
 <!-- Space -->
-
+<h1 align="center">Josh</h1>
+<h3 align="center">"Expression is when you are at one with nothingness."</h3>
+<p align="center">- John Frusciante </p>
 [Back To Top](#favorite-quotes)
