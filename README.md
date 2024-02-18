@@ -74,10 +74,11 @@ then
 git commit -m "docs: <the changes you've made>"
 ```
 
-### `9. Push the branch you made after commit your changes`
+### `9. Then push that b**** in!`
 ```
 git push origin <your branch>
 ```
+> this will push your branch and your commits.
 
  
 
