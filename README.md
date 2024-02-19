@@ -118,8 +118,12 @@ git push origin <your branch>
 <!-- Space -->
 
 
+<h1 align="center">Josh</h1>
+<h3 align="center">"Expression is when you are at one with nothingness."</h3>
+<p align="center">- John Frusciante </p>
 
 
 <!-- Don't write pass here -->
 <!-- This is a button -->
+
 [Back To Top](#favorite-quotes)
